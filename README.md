@@ -1,0 +1,47 @@
+# NCT ABBYY FC Engine Activities
+
+[![N|Solid](data:image/png;base64,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)](https://nodesource.com/products/nsolid)
+
+ABBYY FlexiCapture Engine is a comprehensive software development kit (SDK) for data capture and document recognition. It includes all the core technologies needed for developing state-of-the-art intelligent data capture systems to process multiple types of paper documents in a single stream and accurately transform them into usable data.
+
+The important feature of ABBYY FlexiCapture Engine is an ability of close integration with ABBYY FineReader Engine. The main recognition objects can be passed from one product to another, thereby FlexiCapture Engine opens up the opportunities to use all the recognition features of FineReader Engine.
+
+ABBYY FlexiCapture Engine is a set of DLLs (dynamic link libraries). The FlexiCapture Engine API (application programming interface) conforms to the COM (Component Object Model) standard and can be easily used in C/C++, .Net, Delphi, or any other development tools supporting COM components. With small efforts FlexiCapture Engine could be adapted for use in scripting languages like VBS, JS, Perl.
+
+ABBYY FlexiCapture Engine 12 provides convenient tools for network operation. For correct operation of applications using the ABBYY FlexiCapture Engine 12 library, the ABBYY SDK 12 License Server must be installed on the server.
+
+# New Features!
+
+  - SplitIntoONePage (only PDF)
+  - CheckABBYYConnection
+  - Classification
+  - Recognition (Plus Export)
+
+
+### DEPENDENCIES
+ - ABBYY FLEXICAPTURE ENGINE 12
+ - ABYY FLEXICAPTURE 12 DISTRIBUTED
+
+### Installation
+
+Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd dillinger
+$ npm install -d
+$ node app
+```
+
+For production environments...
+
+```sh
+$ npm install --production
+$ NODE_ENV=production node app
+```
+
+License
+----
+
+GNU General Public License / GPL

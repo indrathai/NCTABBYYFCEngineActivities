@@ -1,0 +1,10 @@
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\bin\Debug\NCTABBYYActivities.dll
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\bin\Debug\NCTABBYYActivities.pdb
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\bin\Debug\itextsharp.dll
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\Interop.FCEngine.dll
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\NCTABBYYActivities.csproj.ResolveComReference.cache
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\NCTABBYYActivities.csproj.CoreCompileInputs.cache
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\NCTABBYYActivities.csproj.CopyComplete
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\NCTABBYYActivities.dll
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\NCTABBYYActivities.pdb
+D:\uipath\Custom Activity\NCTABBYYActivities\NCTABBYYActivities\obj\Debug\NCTABBYYActivities.csprojAssemblyReference.cache
